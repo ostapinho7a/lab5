@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ed09c76f-7f76-4fc0-af60-fab550178c3b",
+    "game_id": "e6fe6e4c-b318-407e-b140-88d5bfca8939",
+    "author": "bug_hunter",
+    "is_recommended": true,
+    "hours_played": 62,
+    "text": "Найкраща метроїдванія, в яку я грав. Боси складні, але чесні.",
+    "created_at": "2026-10-01T19:00:00.000Z"
+  },
+  {
+    "id": "ddcaabe7-db17-47fd-87a2-94fe565a2899",
+    "game_id": "e6fe6e4c-b318-407e-b140-88d5bfca8939",
+    "author": "Олег",
+    "is_recommended": true,
+    "hours_played": 41,
+    "text": "Атмосфера просто неймовірна, музика теж.",
+    "created_at": "2026-10-02T02:00:00.000Z"
+  },
+  {
+    "id": "218a635f-4254-4c2d-b077-8cd1a341d9fa",
+    "game_id": "e6fe6e4c-b318-407e-b140-88d5bfca8939",
+    "author": "nightwatch",
+    "is_recommended": true,
+    "hours_played": 88,
+    "text": "Пройшов на 112%, рекомендую всім.",
+    "created_at": "2026-10-02T09:00:00.000Z"
+  },
+  {
+    "id": "c2daa793-b11d-4bda-97c3-c6904d9316fb",
+    "game_id": "e6fe6e4c-b318-407e-b140-88d5bfca8939",
+    "author": "Марія",
+    "is_recommended": true,
+    "hours_played": 25,
+    "text": "Спочатку важко зрозуміти куди йти, але потім затягує.",
+    "created_at": "2026-10-02T16:00:00.000Z"
+  },
+  {
+    "id": "7351e283-d3b1-4695-a55e-4fd3f4e1b3c6",
+    "game_id": "e6fe6e4c-b318-407e-b140-88d5bfca8939",
+    "author": "kriper",
+    "is_recommended": true,
+    "hours_played": 30,
+    "text": "За такі гроші це шедевр.",
+    "created_at": "2026-10-02T23:00:00.000Z"
+  },
+  {
+    "id": "7b760933-4b9e-411c-b02f-b069fc165552",
+    "game_id": "a4e05383-f45d-4d3f-a97f-6ce4757e756c",
+    "author": "strawberry",
+    "is_recommended": true,
+    "hours_played": 19,
+    "text": "Складно, але кожен рівень проходиш з радістю.",
+    "created_at": "2026-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "fe6290c8-78f4-4b3c-ac81-9cbffc6d9af4",
+    "game_id": "a4e05383-f45d-4d3f-a97f-6ce4757e756c",
+    "author": "Андрій",
+    "is_recommended": true,
+    "hours_played": 12,
+    "text": "Дуже гарна історія.",
+    "created_at": "2026-10-03T13:00:00.000Z"
+  },
+  {
+    "id": "9101805d-fa29-4b6a-92f4-9977a5300e0d",
+    "game_id": "a4e05383-f45d-4d3f-a97f-6ce4757e756c",
+    "author": "pro_gamer",
+    "is_recommended": true,
+    "hours_played": 40,
+    "text": "Б-сторони — це щось.",
+    "created_at": "2026-10-03T20:00:00.000Z"
+  },
+  {
+    "id": "cc912d5c-ee59-4f68-8fb2-bece6c2ba81b",
+    "game_id": "a4e05383-f45d-4d3f-a97f-6ce4757e756c",
+    "author": "casual_cat",
+    "is_recommended": false,
+    "hours_played": 3,
+    "text": "Для мене занадто важко, кинув на третій главі.",
+    "created_at": "2026-10-04T03:00:00.000Z"
+  },
+  {
+    "id": "eab1dbd7-88bb-42db-9e9f-125bd50c1a2b",
+    "game_id": "58b91c8d-4d84-43f7-b22f-d6625a90bfa7",
+    "author": "farmer_joe",
+    "is_recommended": true,
+    "hours_played": 150,
+    "text": "Грав з дівчиною в кооперативі, дуже затишно.",
+    "created_at": "2026-10-04T10:00:00.000Z"
+  },
+  {
+    "id": "ae86da33-b10c-472b-b846-08c27b2b66ac",
+    "game_id": "58b91c8d-4d84-43f7-b22f-d6625a90bfa7",
+    "author": "Ірина",
+    "is_recommended": true,
+    "hours_played": 90,
+    "text": "Ідеальна гра на вечір.",
+    "created_at": "2026-10-04T17:00:00.000Z"
+  },
+  {
+    "id": "f661cea8-b1dd-4e54-b3b7-e9cdee46a5aa",
+    "game_id": "c930b69d-2d53-411b-8749-7d5697622af8",
+    "author": "zagreus",
+    "is_recommended": true,
+    "hours_played": 55,
+    "text": "Кожна смерть — це просто частина сюжету, геніально.",
+    "created_at": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "id": "6f81addc-6cc6-426d-8779-ccf17d3f5953",
+    "game_id": "c930b69d-2d53-411b-8749-7d5697622af8",
+    "author": "Тарас",
+    "is_recommended": false,
+    "hours_played": 6,
+    "text": "Не люблю роглайки, швидко набридло.",
+    "created_at": "2026-10-05T07:00:00.000Z"
+  },
+  {
+    "id": "d43f8454-d734-4087-92bb-1c0399bc90dd",
+    "game_id": "c930b69d-2d53-411b-8749-7d5697622af8",
+    "author": "olympus",
+    "is_recommended": true,
+    "hours_played": 70,
+    "text": "Озвучка і арт на висоті.",
+    "created_at": "2026-10-05T14:00:00.000Z"
+  },
+  {
+    "id": "3a13f5da-5bdd-44ee-9a26-3e0129f23cf7",
+    "game_id": "c930b69d-2d53-411b-8749-7d5697622af8",
+    "author": "noob",
+    "is_recommended": false,
+    "hours_played": 2,
+    "text": "Занадто швидко все відбувається.",
+    "created_at": "2026-10-05T21:00:00.000Z"
+  },
+  {
+    "id": "38cbfc15-8a16-4ddc-bb29-a4432fd41f46",
+    "game_id": "2d6c72a3-4aa4-4969-9533-0d3a432dfdd6",
+    "author": "tearful",
+    "is_recommended": true,
+    "hours_played": 300,
+    "text": "Найреграбельніша гра взагалі.",
+    "created_at": "2026-10-06T04:00:00.000Z"
+  },
+  {
+    "id": "f330ba2c-a5ff-43b0-b038-9f3815abe6c3",
+    "game_id": "2d6c72a3-4aa4-4969-9533-0d3a432dfdd6",
+    "author": "Віка",
+    "is_recommended": false,
+    "hours_played": 4,
+    "text": "Дуже моторошно і незрозуміло.",
+    "created_at": "2026-10-06T11:00:00.000Z"
+  },
+  {
+    "id": "06e82f37-ea55-4af2-8297-5e0e7ce6ca2e",
+    "game_id": "2d6c72a3-4aa4-4969-9533-0d3a432dfdd6",
+    "author": "random_guy",
+    "is_recommended": false,
+    "hours_played": 1,
+    "text": "Не моє.",
+    "created_at": "2026-10-06T18:00:00.000Z"
+  },
+  {
+    "id": "67ce0ece-b94f-40fb-b906-31bcd9019f65",
+    "game_id": "2d6c72a3-4aa4-4969-9533-0d3a432dfdd6",
+    "author": "Сергій",
+    "is_recommended": false,
+    "hours_played": 8,
+    "text": "Занадто багато рандому.",
+    "created_at": "2026-10-07T01:00:00.000Z"
+  },
+  {
+    "id": "6dc72770-9983-43a4-b65e-e98540dac819",
+    "game_id": "a74a3941-5b97-4f96-83f0-b1abd0f87e73",
+    "author": "cellar",
+    "is_recommended": true,
+    "hours_played": 33,
+    "text": "Бої дуже приємні.",
+    "created_at": "2026-10-07T08:00:00.000Z"
+  },
+  {
+    "id": "2fe2c1d8-eb2d-432f-8b04-701cc6212e76",
+    "game_id": "a74a3941-5b97-4f96-83f0-b1abd0f87e73",
+    "author": "Дмитро",
+    "is_recommended": false,
+    "hours_played": 10,
+    "text": "Після 10 годин стало одноманітно.",
+    "created_at": "2026-10-07T15:00:00.000Z"
+  }
+]

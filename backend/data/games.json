@@ -1,0 +1,82 @@
+[
+  {
+    "id": "e6fe6e4c-b318-407e-b140-88d5bfca8939",
+    "title": "Hollow Knight",
+    "genre": "Metroidvania",
+    "price": 14.99,
+    "discount": 50,
+    "developer": "Team Cherry",
+    "image_url": "https://picsum.photos/seed/hollow/600/340",
+    "description": "Похмуре королівство комах, складні боси і величезна мапа, яку треба досліджувати самому. Одна з найкращих метроїдваній."
+  },
+  {
+    "id": "a4e05383-f45d-4d3f-a97f-6ce4757e756c",
+    "title": "Celeste",
+    "genre": "Platformer",
+    "price": 19.99,
+    "discount": 0,
+    "developer": "Maddy Makes Games",
+    "image_url": "https://picsum.photos/seed/celeste/600/340",
+    "description": "Платформер про дівчину Медлін, яка підіймається на гору. Дуже складні рівні і несподівано зворушлива історія."
+  },
+  {
+    "id": "58b91c8d-4d84-43f7-b22f-d6625a90bfa7",
+    "title": "Stardew Valley",
+    "genre": "Simulation",
+    "price": 14.99,
+    "discount": 20,
+    "developer": "ConcernedApe",
+    "image_url": "https://picsum.photos/seed/stardew/600/340",
+    "description": "Ферма, риболовля, шахти і знайомство з мешканцями містечка. Затягує на сотні годин."
+  },
+  {
+    "id": "c930b69d-2d53-411b-8749-7d5697622af8",
+    "title": "Hades",
+    "genre": "Roguelike",
+    "price": 24.99,
+    "discount": 0,
+    "developer": "Supergiant Games",
+    "image_url": "https://picsum.photos/seed/hades/600/340",
+    "description": "Син Аїда намагається втекти з підземного світу. Кожна спроба інша, а сюжет розкривається між забігами."
+  },
+  {
+    "id": "2d6c72a3-4aa4-4969-9533-0d3a432dfdd6",
+    "title": "The Binding of Isaac: Rebirth",
+    "genre": "Roguelike",
+    "price": 14.99,
+    "discount": 75,
+    "developer": "Nicalis",
+    "image_url": "https://picsum.photos/seed/isaac/600/340",
+    "description": "Ісаак тікає в підвал від матері. Тисячі предметів і випадкові підземелля, кожен забіг непередбачуваний."
+  },
+  {
+    "id": "8770c105-ab4d-45b0-bad0-dedba470be7e",
+    "title": "Undertale",
+    "genre": "RPG",
+    "price": 9.99,
+    "discount": 0,
+    "developer": "Toby Fox",
+    "image_url": "https://picsum.photos/seed/undertale/600/340",
+    "description": "RPG, де нікого не обов’язково вбивати. Дивний гумор, запам’ятовувана музика і кілька кінцівок."
+  },
+  {
+    "id": "a74a3941-5b97-4f96-83f0-b1abd0f87e73",
+    "title": "Dead Cells",
+    "genre": "Roguelike",
+    "price": 24.99,
+    "discount": 40,
+    "developer": "Motion Twin",
+    "image_url": "https://picsum.photos/seed/deadcells/600/340",
+    "description": "Динамічний роглайк з боями і зброєю, яку відкриваєш поступово. Після смерті починаєш спочатку."
+  },
+  {
+    "id": "29bd1ba0-21cb-416c-b8ed-9ec74b61588f",
+    "title": "Terraria",
+    "genre": "Sandbox",
+    "price": 9.99,
+    "discount": 0,
+    "developer": "Re-Logic",
+    "image_url": "https://picsum.photos/seed/terraria/600/340",
+    "description": "2D-пісочниця: копаєш, будуєш і б’єшся з босами. Можна грати з друзями."
+  }
+]
