@@ -17,6 +17,6 @@
 
 ## З чого складається
 
-**backend** — Express + TypeScript. Дані лежать у `data/games.json` і `data/reviews.json`. Сервер сам рахує фінальну ціну, відсоток позитивних відгуків і статус рейтингу.
+**backend** - Express + TypeScript. Дані лежать у `data/games.json` і `data/reviews.json`. Сервер сам рахує фінальну ціну, відсоток позитивних відгуків і статус рейтингу.
 
-**frontend** — Vue 3 + TypeScript, Pinia, Vue Router, Tailwind + DaisyUI, іконки Lucide. Код розбитий на шари: компонент → composable → сервіс → httpClient (axios).
+**frontend** - Vue 3 + TypeScript, Pinia, Vue Router, Tailwind + DaisyUI, іконки Lucide. Код розбитий на шари: компонент → composable → сервіс → httpClient (axios).
